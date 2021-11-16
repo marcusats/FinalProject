@@ -2,7 +2,7 @@
 
 # - Overview -
 
-    The Raspberry Pi would read the Gcode sent from another device using SSH, it will run a program that powers 2 motors, X and Y axis. The Laser would move in just one of the axis and the engraving surface in the other axis.
+    -The Raspberry Pi would read the Gcode sent from another device using SSH, it will run a program that powers 2 motors, X and Y axis. The Laser would move in just one of the axis and the engraving surface in the other axis.
 
 # - Materials - 
 
